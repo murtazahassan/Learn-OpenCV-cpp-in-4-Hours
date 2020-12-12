@@ -6,7 +6,7 @@ Go to https://github.com/opencv/opencv and download the Lastest Release
 
 Extract Files to local drive e.g. D\:
 
-<img src="https://github.com/murtazahassan/opencv-cpp-course/blob/main/ExtraImages/ImagesExtra/Release.jpg" width="1280">
+<img src="https://github.com/murtazahassan/opencv-cpp-course/blob/main/ExtraImages/Release.jpg" width="1280">
 
 
 # Step 2 
