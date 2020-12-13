@@ -76,7 +76,7 @@ Test Code
     Drag your info.plist file to this folder. 
 
 
-TEST CODE 
+Tesr Code 
 
       #include <opencv2/imgcodecs.hpp>
       #include <opencv2/highgui.hpp>
