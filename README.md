@@ -1,5 +1,5 @@
 # LEARN OPENCV C++ in 4 HOURS
-[![Watch Video](hhttps://github.com/murtazahassan/opencv-cpp-course/blob/main/ExtraImages/OPENCV%20Cpp%20in%204%20hours.png)](https://youtu.be/2FYm3GOonhk)
+[![Watch Video](https://github.com/murtazahassan/opencv-cpp-course/blob/main/ExtraImages/OPENCV-Cpp-4-hours.png)](https://youtu.be/2FYm3GOonhk)
 
 
 # What will you learn ?
