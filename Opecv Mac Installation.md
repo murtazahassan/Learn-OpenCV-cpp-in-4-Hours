@@ -90,15 +90,15 @@ TEST CODE
 
       int main() {
 
-       VideoCapture cap(1);
-       Mat img;
+           VideoCapture cap(1);
+           Mat img;
 
-       while (true) {
+           while (true) {
 
-       cap.read(img);
-       imshow("Image", img);
-       waitKey(1);
+           cap.read(img);
+           imshow("Image", img);
+           waitKey(1);
 
        }
-      return 0;
-  }
+        return 0;
+       }
